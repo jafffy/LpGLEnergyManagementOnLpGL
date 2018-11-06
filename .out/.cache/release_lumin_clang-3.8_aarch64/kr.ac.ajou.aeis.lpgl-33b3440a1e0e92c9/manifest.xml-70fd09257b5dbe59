@@ -1,0 +1,8 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="bb3d24c8-b011-461c-ab7a-483ce6af5d82" ml:package="kr.ac.ajou.aeis.lpgl" ml:version_code="1" ml:version_name="">
+  <application ml:sdk_version="1.0" ml:visible_name="LpGLEnergyMeasurement">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="LpGLEnergyMeasurement">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>
